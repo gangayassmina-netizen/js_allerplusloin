@@ -1,7 +1,7 @@
 let produits = [
-  { nom: "PC portable", prix: 900, image: "pc.png" },
-  { nom: "Clavier mécanique", prix: 45, image: "clavier.png" },
-  { nom: "Souris sans fil", prix: 25, image: "souris.png" }
+  { nom: "PC portable", prix: 900, image: "image/pc2.jpeg" },
+  { nom: "Clavier mécanique", prix: 45, image: "image/clavier.png.jpeg" },
+  { nom: "Souris sans fil", prix: 25, image: "image/souris2.png.jpeg" }
 ];
 
 let catalogue = document.getElementById("catalogue");
